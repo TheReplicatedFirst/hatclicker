@@ -1,0 +1,13 @@
+.image-bg{
+	background-color: #232323;
+}
+.parent {
+  display: flex;
+  justify-content: center;
+
+}
+.txt{
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
